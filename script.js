@@ -1,4 +1,4 @@
-var haslo = "it camp jest fajny";
+var haslo = "gra w szubienice";
 haslo = haslo.toUpperCase();
 
 var ukryte_haslo = "";
